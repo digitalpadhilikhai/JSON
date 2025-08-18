@@ -5,5 +5,19 @@
     "postTitle": "Home",
     "posturl": "https://www.digitalpadhailikhai.co.in/",
     "mainTitle": "Digital PadhaiLikhai"
+  },
+  {
+    "slug": "ConstitutionOfIndia",
+    "parentSlug": "home",
+    "postTitle": "Constitution of India",
+    "posturl": "https://www.digitalpadhailikhai.co.in/p/constitution-of-india.html",
+    "mainTitle": "Constitution of India (in Hindi)"
+  },
+  {
+    "slug": "COI1",
+    "parentSlug": "ConstitutionOfIndia",
+    "postTitle": "Article 01",
+    "posturl": "https://www.digitalpadhailikhai.co.in/2025/08/ConstitutionOfIndia-Artcle1.html",
+    "mainTitle": "भारतीय संविधान अनुच्छेद 1: भारत का नाम और क्षेत्र"
   }
 ]
