@@ -19,5 +19,12 @@
     "postTitle": "Article 01",
     "posturl": "https://www.digitalpadhailikhai.co.in/2025/08/ConstitutionOfIndia-Article1.html",
     "mainTitle": "भारतीय संविधान अनुच्छेद 1: भारत का नाम और क्षेत्र"
+  },
+  {
+    "slug": "COI2",
+    "parentSlug": "ConstitutionOfIndia",
+    "postTitle": "Article 02",
+    "posturl": "https://www.digitalpadhailikhai.co.in/2025/08/ConstitutionOfIndia-Article2.html",
+    "mainTitle": "भारतीय संविधान अनुच्छेद 2: नए राज्यों का प्रवेश और स्थापना"
   }
 ]
